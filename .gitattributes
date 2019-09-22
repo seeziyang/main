@@ -1,1 +1,3 @@
 *.pdf binary
+
+gradlew.bat text eol=lf
